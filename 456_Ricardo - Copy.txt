@@ -1,0 +1,26 @@
+
+ * ------------------------------------------------------------------- *
+
+ N° Expediente: 456
+ Nombre del paciente: Ricardo Martinez
+ Sexo del paciente: Masculino
+ Fecha de Nacimiento (dd-mm-aa): 18-02-1994
+ Edad: 20
+ Estado Civil: Soltero
+ DUI: 456398-9
+ Ocupacion: Estudiante
+ Direccion Habitual: sadasdas
+ Telefono: 2222-5555
+ Causa: asdasdsadas
+ Peso: 180
+ Altura: 175
+ ---------------INFORMACION DE LA FAMILIA---------------
+
+ Nombre del Padre: aNDRE
+ Nombre de la Madre: Juana
+ Responsable del Paciente: sdsasa
+ Direccion del Responsable: sadas
+ Telefono: 222-9699
+ Edad del paciente: 20 años
+ * ------------------------------------------------------------------- *
+

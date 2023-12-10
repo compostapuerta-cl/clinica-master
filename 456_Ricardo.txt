@@ -1,0 +1,29 @@
+
+ * ------------------------------------------------------------------- *
+
+ ---------------INFORMACION DEL PACIENTE---------------
+
+ N° Expediente: 789
+ Nombre del paciente: Ricardo Martinez
+ Sexo del paciente: Masculinp
+ Fecha de Nacimiento (dd-mm-aa): 18-02-94
+ Edad: 20
+ Estado Civil: Solero
+ DUI: 4555-666
+ Ocupacion: Estudiante
+ Direccion Habitual: sadsasa
+ Telefono: 25556-5455
+ Causa: asdas
+ Peso: 178lb
+ Altura: 1.75m 
+
+ ---------------INFORMACION DE LA FAMILIA---------------
+
+ Nombre del Padre: asdas
+ Nombre de la Madre: asss
+ Responsable del Paciente: saaa
+ Direccion del Responsable: sadsa
+ Telefono: 2222-2222
+ Edad del paciente: 20 años
+ * ------------------------------------------------------------------- *
+

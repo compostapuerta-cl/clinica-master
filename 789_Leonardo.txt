@@ -1,0 +1,28 @@
+
+ * ------------------------------------------------------------------- *
+
+ N° Expediente: 789
+ Nombre del paciente: Leonardo Tal
+ Sexo del paciente: Masculino
+ Fecha de Nacimiento (dd-mm-aa): 4-05-1994
+ Edad: 20
+ Estado Civil: SOltero
+ DUI: 7896-5
+ Ocupacion: Ing
+ Direccion Habitual: asdasdsadas
+ Telefono: 2222-7896
+ Causa: SAFDSADS
+ Peso: 178lb 
+
+ Altura: 1.75m 
+
+ ---------------INFORMACION DE LA FAMILIA---------------
+
+ Nombre del Padre: LOPOLDO
+ Nombre de la Madre: Andrea
+ Responsable del Paciente: Juan
+ Direccion del Responsable: sadsadsa
+ Telefono: 45698-9632
+ Edad del paciente: 20 años
+ * ------------------------------------------------------------------- *
+
